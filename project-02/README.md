@@ -1,0 +1,1 @@
+the image's are able to scroll
